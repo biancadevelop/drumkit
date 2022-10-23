@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/github.io/drum-kit/static/css/main.9ba910ec.css",
+    "main.js": "/github.io/drum-kit/static/js/main.e5ffdd03.js",
+    "index.html": "/github.io/drum-kit/index.html",
+    "main.9ba910ec.css.map": "/github.io/drum-kit/static/css/main.9ba910ec.css.map",
+    "main.e5ffdd03.js.map": "/github.io/drum-kit/static/js/main.e5ffdd03.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.9ba910ec.css",
+    "static/js/main.e5ffdd03.js"
+  ]
+}
